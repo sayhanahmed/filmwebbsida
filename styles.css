@@ -1,0 +1,25 @@
+body {
+  background-color: blue;
+  color: lightgreen;
+}
+
+h1 {
+  color: yellow;
+  font-size: 1.7rem;
+  font-family: Verdana, sans-serif;
+  background-color: blue;
+}
+
+p {
+  color: white;
+  font-size: 1.2rem;
+  font-family: Verdana, sans-serif;
+  background-color: blue;
+}
+
+img {
+  height: 400x;
+  width: 400px;
+  background-color: lime;
+  color: blue;
+}
